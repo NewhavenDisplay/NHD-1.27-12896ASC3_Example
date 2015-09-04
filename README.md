@@ -5,7 +5,7 @@ NHD-1.27-12896ASC3 Example Code:
  
  Pick one up today in the Newhaven Display shop!
  
- ------> http://www.newhavendisplay.com/nhd12712896ugc3-p-7845.html
+ ------> Coming Soon!
  
  This code is written for the Arduino Uno.
  
